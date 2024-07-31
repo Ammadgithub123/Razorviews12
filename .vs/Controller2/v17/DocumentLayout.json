@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET CORE\\Controller\\Controller2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8DD55C-E3EE-4D22-812F-0F492C77F122}|Controller2\\Controller2.csproj|e:\\asp.net core\\controller\\controller2\\controller2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8DD55C-E3EE-4D22-812F-0F492C77F122}|Controller2\\Controller2.csproj|solutionrelative:controller2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8DD55C-E3EE-4D22-812F-0F492C77F122}|Controller2\\Controller2.csproj|e:\\asp.net core\\controller\\controller2\\controller2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8DD55C-E3EE-4D22-812F-0F492C77F122}|Controller2\\Controller2.csproj|solutionrelative:controller2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8DD55C-E3EE-4D22-812F-0F492C77F122}|Controller2\\Controller2.csproj|e:\\asp.net core\\controller\\controller2\\controller2\\controller123\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8DD55C-E3EE-4D22-812F-0F492C77F122}|Controller2\\Controller2.csproj|solutionrelative:controller2\\controller123\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.NET CORE\\Controller\\Controller2\\Controller2\\Program.cs",
+              "RelativeDocumentMoniker": "Controller2\\Program.cs",
+              "ToolTip": "E:\\ASP.NET CORE\\Controller\\Controller2\\Controller2\\Program.cs",
+              "RelativeToolTip": "Controller2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA0wBkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:09:30.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET CORE\\Controller\\Controller2\\Controller2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controller2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ASP.NET CORE\\Controller\\Controller2\\Controller2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Controller2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T06:19:14.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ASP.NET CORE\\Controller\\Controller2\\Controller2\\Controller123\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controller2\\Controller123\\HomeController.cs",
+              "ToolTip": "E:\\ASP.NET CORE\\Controller\\Controller2\\Controller2\\Controller123\\HomeController.cs",
+              "RelativeToolTip": "Controller2\\Controller123\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:37:03.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

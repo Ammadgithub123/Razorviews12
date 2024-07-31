@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+              @* RAZOR VIEWS *@
+
+<h1>Index with HomeControllers.</h1>
+<h1>Current @DateTime.Now is this </h1>
+<h1>Current Year is this = @DateTime.Now.Year </h1>
+
+@{
+    var name1 = "Muhammad Ammad Zahid";
+    var lang = "Urdu & English";
+}
+
+<h2>My Name is = @name1 </h2>
+<h2>And my language is this = @lang </h2>
+
+@{
+    var name2 = "Muhammad Ammad Zahid";
+    if (name2.Equals("AZ"))
+    {
+        <h3>Hello AZ</h3>
+    }
+    else
+    {
+        <h3>BYE.</h3>
+    }
+}
+
+@{
+    for (int i = 0; i < 6; i++)
+    {
+        <h4>@i</h4>
+    }
+}
+
+@{
+    string [] names = { "Ammad", "Moiz", "Shan" };
+    foreach (var mmm in names)
+    {
+        <h4>@mmm</h4>
+    }
+}
